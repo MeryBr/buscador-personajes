@@ -1,5 +1,5 @@
 export const __CONSTANTES = {
-    srcBackCard: "src/content/images/back.jpg",
+    srcBackCard: "images/back.jpg",
     imagePrefixID: "image-",
     divPrefixID: "container-",
     intentosPrefix: "Intentos: "

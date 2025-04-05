@@ -10,6 +10,7 @@ const vitestConfig: VitestUserConfigInterface = {
 };
 
 export default defineConfig({
+  base: '/buscador-personajes/', 
   plugins: [checker({ typescript: true })],
   test: vitestConfig.test,
 });
